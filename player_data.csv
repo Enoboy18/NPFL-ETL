@@ -1,0 +1,381 @@
+shirt_number,position,nation,player,team
+1,GK,NGA,Edwin Nwakanma,Abia Warriors F.C.
+30,GK,NGA,Tambe Charles,Abia Warriors F.C.
+33,GK,NGA,Uche Okafor,Abia Warriors F.C.
+35,GK,NGA,Godgift Elkanah,Abia Warriors F.C.
+3,DF,NGA,Ubong Williams,Abia Warriors F.C.
+5,DF,NGA,Chinedu Ozor,Abia Warriors F.C.
+6,DF,CMR,Jean-Parfait Ledoux,Abia Warriors F.C.
+26,DF,NGA,Ebetomame Oghenetega,Abia Warriors F.C.
+29,DF,NGA,Innocent Gabriel,Abia Warriors F.C.
+,DF,NGA,Samson P,Abia Warriors F.C.
+,DF,NGA,Emeka I,Abia Warriors F.C.
+4,MF,NGA,Abdullahi Fatai,Abia Warriors F.C.
+7,MF,NGA,Promise Ogu,Abia Warriors F.C.
+8,MF,NGA,Keumian Guy,Abia Warriors F.C.
+13,MF,NGA,Hammed Yakub,Abia Warriors F.C.
+15,MF,NGA,Adekunle Adeleke,Abia Warriors F.C.
+25,MF,NGA,Somtochukwu Omini,Abia Warriors F.C.
+34,MF,NGA,Okemmiri Anthony,Abia Warriors F.C.
+9,FW,NGA,Jimoh Oni,Abia Warriors F.C.
+10,FW,NGA,Shedrack Asiegbu,Abia Warriors F.C.
+11,FW,NGA,Auta Phillip,Abia Warriors F.C.
+12,FW,NGA,Atilola Abdulsalam Tunde,Abia Warriors F.C.
+23,FW,NGA,Odeh James,Abia Warriors F.C.
+24,FW,NGA,Ikedinachi Nwakanma,Abia Warriors F.C.
+14,,NGA,Emmanuel Ugwuka,Abia Warriors F.C.
+16,,NGA,Obaroakpo A,Abia Warriors F.C.
+20,,NGA,Paul Samson,Abia Warriors F.C.
+22,,NGA,Ugochukwu Anozie,Abia Warriors F.C.
+1,GK,NGA,Adewale Adeyinka,Akwa United F.C.
+18,GK,CMR,Jean Efala,Akwa United F.C.
+33,GK,NGA,Dele Ajiboye,Akwa United F.C.
+34,GK,NGA,Ifeanyi Emmanuel,Akwa United F.C.
+2,DF,NGA,James Ajako,Akwa United F.C.
+3,DF,NGA,Evans Ogbonda,Akwa United F.C.
+5,DF,NGA,Sampson Gbadebo,Akwa United F.C.
+6,DF,NGA,Charles Okafor,Akwa United F.C.
+12,DF,NGA,Denis Nya,Akwa United F.C.
+14,DF,NGA,John Lazarus,Akwa United F.C.
+15,DF,NGA,Elu Wilson,Akwa United F.C.
+26,DF,NGA,Ekene Olisema,Akwa United F.C.
+29,DF,NGA,Etboy Akpan,Akwa United F.C.
+16,MF,NGA,James Arong,Akwa United F.C.
+19,MF,NGA,Seth Mayi,Akwa United F.C.
+24,MF,NGA,Samuel Amadi,Akwa United F.C.
+27,MF,NGA,Ubong Essien,Akwa United F.C.
+28,MF,NGA,Stephen Amos,Akwa United F.C.
+37,MF,NGA,Nicholas Godswill,Akwa United F.C.
+7,FW,NGA,Ubong Friday,Akwa United F.C.
+8,FW,NGA,Ezekiel Bassey,Akwa United F.C.
+10,FW,NGA,Orok Akarandut,Akwa United F.C.
+11,FW,NGA,Leo Ezekiel,Akwa United F.C.
+13,FW,NGA,Aiz Jibrin,Akwa United F.C.
+17,FW,NGA,Stephen Chukwude,Akwa United F.C.
+4,FW,NGA,Utibe Archibong,Akwa United F.C.
+23,FW,NGA,Izu Azuka,Akwa United F.C.
+25,FW,NGA,Wisdom Fernando,Akwa United F.C.
+32,FW,NGA,Abiodun Thompson,Akwa United F.C.
+35,FW,NGA,Tony Obia,Akwa United F.C.
+30,GK,NGA,Itodo Akor,El-Kanemi Warriors F.C.
+2,DF,NGA,Joe Maamo,El-Kanemi Warriors F.C.
+6,DF,NGA,Lucky Erimuya,El-Kanemi Warriors F.C.
+7,MF,NGA,Isiaka Olawale,El-Kanemi Warriors F.C.
+8,MF,NGA,Sunday Anthony,El-Kanemi Warriors F.C.
+5,FW,NGA,Babatunde Solomon,El-Kanemi Warriors F.C.
+13,DF,NGA,Innocent Gabriel,El-Kanemi Warriors F.C.
+14,MF,NGA,AbdulRazak Aliyu,El-Kanemi Warriors F.C.
+17,FW,NGA,Chinedu Ohanachom,El-Kanemi Warriors F.C.
+19,FW,NGA,Analaba Uche,El-Kanemi Warriors F.C.
+21,DF,NGA,Solomon onome,El-Kanemi Warriors F.C.
+28,DF,NGA,Osita Echendu,El-Kanemi Warriors F.C.
+24,GK,NGA,Jobe Modou,El-Kanemi Warriors F.C.
+25,,NGA,Haliru Hashima,El-Kanemi Warriors F.C.
+30,,NGA,Ocheme Edoh,El-Kanemi Warriors F.C.
+31,,NGA,Williams Nkeme,El-Kanemi Warriors F.C.
+33,,NGA,Tchoanfine Pade,El-Kanemi Warriors F.C.
+39,FW,NGA,Ba'akaka Ajikolo,El-Kanemi Warriors F.C.
+23,MF,NGA,Kabiru Balogun,El-Kanemi Warriors F.C.
+26,FW,NGA,Abubakar Umar,El-Kanemi Warriors F.C.
+22,FW,NGA,Abdulwaheed Afolabi,El-Kanemi Warriors F.C.
+12,FW,NGA,Ibrahim Mustapha,El-Kanemi Warriors F.C.
+16,FW,NGA,Anthony Yeful,El-Kanemi Warriors F.C.
+2,GK,NGA,Japhet Opubo,Enugu Rangers F.C.
+3,DF,NGA,Ifeanyi Okoro,Enugu Rangers F.C.
+5,DF,SEN,Pape Sané,Enugu Rangers F.C.
+7,MF,NGA,Ifeanyi Nweke,Enugu Rangers F.C.
+8,MF,NGA,Kazeem Ogunleye,Enugu Rangers F.C.
+9,MF,NGA,Isaac Savior,Enugu Rangers F.C.
+10,MF,NGA,Okoire,Enugu Rangers F.C.
+12,DF,NGA,Osas Okoro,Enugu Rangers F.C.
+13,LB,NGA,Igboke Kenneth,Enugu Rangers F.C.
+14,FW,NGA,Ifeanyi Ogba,Enugu Rangers F.C.
+16,GK,NGA,Olufemi Thomas,Enugu Rangers F.C.
+18,FW,NGA,Godwin Obaje,Enugu Rangers F.C.
+19,MF,NGA,Kenneth Agu,Enugu Rangers F.C.
+20,DF,NGA,Temitope Olusesi,Enugu Rangers F.C.
+21,MF,NGA,Christian Madu,Enugu Rangers F.C.
+22,MF,NGA,Shedrack Asiegbu,Enugu Rangers F.C.
+24,DF,NGA,Ernest Governor,Enugu Rangers F.C.
+25,GK,GHA,Nana Bonsu,Enugu Rangers F.C.
+27,FW,NGA,Odah,Enugu Rangers F.C.
+28,MF,NGA,Archibong Eso,Enugu Rangers F.C.
+29,FW,NGA,Kenechukwu Agu,Enugu Rangers F.C.
+31,MF,NGA,Chidiebere Nwobodo,Enugu Rangers F.C.
+33,MF,NGA,Ebuka Franklin Anthony,Enugu Rangers F.C.
+34,FW,NGA,Timothy Simon,Enugu Rangers F.C.
+35,MF,NGA,Charles Tiesso,Enugu Rangers F.C.
+36,MF,NGA,Daniel Vandagar,Enugu Rangers F.C.
+1,GK,NGA,John Noble Barinyima,Enyimba F.C.
+2,DF,NGA,Yakubu Bilal,Enyimba F.C.
+3,MF,NGA,Edem Ini,Enyimba F.C.
+6,FW,NGA,Ekwutoziam Eze,Enyimba F.C.
+7,MF,NGA,Nzondiegwu Nonso,Enyimba F.C.
+9,FW,NGA,Chukwuemeka Obioma,Enyimba F.C.
+10,MF,NGA,Akanni Elijah,Enyimba F.C.
+12,GK,NGA,Olorunleke Ojo,Enyimba F.C.
+13,FW,NGA,Abubakar Adamu,Enyimba F.C.
+14,FW,NGA,Jeremy Olatunji,Enyimba F.C.
+15,MF,NGA,Chijioke Mbaoma,Enyimba F.C.
+16,MF,NGA,Ozor Philip,Enyimba F.C.
+17,FW,NGA,Kalu Samuel,Enyimba F.C.
+18,DF,NGA,Pascal Eze,Enyimba F.C.
+19,FW,NGA,Omoduemuke Moses,Enyimba F.C.
+20,FW,NGA,Adebambo Ademola,Enyimba F.C.
+21,GK,NGA,Emeka Onyekachi,Enyimba F.C.
+22,MF,NGA,Cooper Ikenna,Enyimba F.C.
+26,DF,NGA,Odita Okechukwu,Enyimba F.C.
+28,MF,NGA,Oronsaye James,Enyimba F.C.
+29,DF,NGA,Imo Obot,Enyimba F.C.
+29,FW,NGA,Awaziem Ekene,Enyimba F.C.
+31,MF,NGA,Tijani Kabiru,Enyimba F.C.
+33,DF,NGA,Asuquo Uwana,Enyimba F.C.
+38,FW,NGA,Adiele Eriugo,Enyimba F.C.
+31,GK,NGA,Adam Ogunmola,Ikorodu City F.C.
+10,DF,NGA,Desmond Ogunleye,Ikorodu City F.C.
+13,DF,NGA,Kunle Abiola,Ikorodu City F.C.
+18,DF,NGA,Olufemi Akintola,Ikorodu City F.C.
+33,DF,NGA,Ryan Abidemi,Ikorodu City F.C.
+35,DF,NGA,Winston Olatunji,Ikorodu City F.C.
+40,DF,NGA,Terrence Adeyemi,Ikorodu City F.C.
+15,MF,NGA,Justin Olaniyan,Ikorodu City F.C.
+30,MF,NGA,Friday Alabi,Ikorodu City F.C.
+36,MF,NGA,Christus Adeola,Ikorodu City F.C.
+5,FW,NGA,Charles Ajayi,Ikorodu City F.C.
+9,FW,NGA,Babatunde Omotayo,Ikorodu City F.C.
+19,GK,NGA,Vernon Adebisi,Ikorodu City F.C.
+1,GK,GHA,Ibrahim Iddrisu,Kano Pillars F.C.
+2,DF,NGA,Ali Abdullahi,Kano Pillars F.C.
+3,DF,NGA,Ismaila Nasir,Kano Pillars F.C.
+4,MF,NGA,Shehu Abdullahi,Kano Pillars F.C.
+5,DF,NGA,Abdullahi Musa,Kano Pillars F.C.
+6,MF,NGA,Suleiman Idris,Kano Pillars F.C.
+7,FW,NGA,Ahmed Musa,Kano Pillars F.C.
+8,MF,NGA,Yusuf Maigoro,Kano Pillars F.C.
+9,FW,NGA,Auwalu Ali Malam,Kano Pillars F.C.
+10,MF,NGA,Rabiu Ali(Captain),Kano Pillars F.C.
+11,FW,NGA,Mustapha Umar,Kano Pillars F.C.
+12,MF,NGA,Aminu Mohammed,Kano Pillars F.C.
+14,DF,NGA,Ibrahim Abubakar,Kano Pillars F.C.
+16,FW,NGA,Mustapha Salisu,Kano Pillars F.C.
+18,MF,NGA,Sani Mubarak,Kano Pillars F.C.
+19,FW,NGA,Ibrahim Mustapha,Kano Pillars F.C.
+20,FW,NGA,Ibrahim Abdullahi,Kano Pillars F.C.
+22,FW,NGA,Muhammad Yakubu,Kano Pillars F.C.
+23,DF,NGA,Sani Faisal,Kano Pillars F.C.
+24,MF,NGA,Aminu Sani,Kano Pillars F.C.
+25,MF,NGA,Joshua Dua,Kano Pillars F.C.
+26,DF,NGA,Habibu Yakubu,Kano Pillars F.C.
+27,DF,NGA,Ibrahim Nura,Kano Pillars F.C.
+28,FW,NGA,Yusuf Abdullahi,Kano Pillars F.C.
+29,MF,NGA,Mubarak Lawan,Kano Pillars F.C.
+30,DF,NGA,Fahad Usman,Kano Pillars F.C.
+31,GK,NGA,Mohammed Galadima,Kano Pillars F.C.
+33,GK,NGA,Muttaka Musa,Kano Pillars F.C.
+34,DF,NGA,Attairu Mushinu,Kano Pillars F.C.
+36,MF,NGA,Muhammed Usman,Kano Pillars F.C.
+38,FW,NGA,Umar Shehu,Kano Pillars F.C.
+40,FW,NGA,Abba Adam,Kano Pillars F.C.
+1,GK,NGA,Yusuf Muhammed,Kastina United F.C.
+2,,NGA,Peter Ubakanma,Kastina United F.C.
+3,DF,NGA,Maduagwu chimezie,Kastina United F.C.
+4,,NGA,Eleje Onyedikachi,Kastina United F.C.
+5,,NGA,Habib Yakubu,Kastina United F.C.
+6,,NGA,Souley Muhamad,Kastina United F.C.
+8,,NGA,Suleman Ibrahim,Kastina United F.C.
+9,FW,NGA,Gambo Muhammad,Kastina United F.C.
+10,,NGA,Abdulkarim Ahmed,Kastina United F.C.
+14,,NGA,Kabir Jinadu,Kastina United F.C.
+15,FW,NGA,Odebiyi Olamilekan,Kastina United F.C.
+16,FW,NGA,Odinkwazuka Victor,Kastina United F.C.
+17,FW,NGA,Kilani Paul,Kastina United F.C.
+19,MF,NGA,Jinadu Saheed,Kastina United F.C.
+20,MF,NGA,Azeez Falolu,Kastina United F.C.
+21,MF,NGA,Arthur Ebiakpo Cruuz,Kastina United F.C.
+22,MF,NGA,Ejika Nehemiah,Kastina United F.C.
+23,FW,NGA,Ayodeji Jacobs Dunga,Kastina United F.C.
+24,FW,NGA,Iyanda Oluwatobi Ige,Kastina United F.C.
+31,MF,NGA,Dauda Samson Oluwaseun,Kastina United F.C.
+33,GK,NGA,,Kastina United F.C.
+40,DF,NGA,Smart Ehiebolo okosun,Kastina United F.C.
+1,GK,NGA,Daniel Atsaka,Lobi Stars F.C.
+2,DF,NGA,John Lazarus,Lobi Stars F.C.
+31,DF,NGA,Solomon Kwambe,Lobi Stars F.C.
+6,DF,NGA,Jimmy Iteji,Lobi Stars F.C.
+10,FW,NGA,Stanley Oganbor,Lobi Stars F.C.
+8,MF,NGA,Kumaga Suur,Lobi Stars F.C.
+9,FW,NGA,Barnabas Imenger,Lobi Stars F.C.
+11,FW,NGA,Samuel Tiza Iorwuese,Lobi Stars F.C.
+12,GK,NGA,Emmanuel Daniel,Lobi Stars F.C.
+13,DF,NGA,Orji Kalu Okagbue,Lobi Stars F.C.
+14,FW,NGA,Dabani Godwin Alao,Lobi Stars F.C.
+16,FW,NGA,Waheed Adebayo,Lobi Stars F.C.
+17,DF,NGA,Moses Tsehuan,Lobi Stars F.C.
+20,MF,NGA,Ajibola Adeleke,Lobi Stars F.C.
+19,CF,NGA,Ossy Martins,Lobi Stars F.C.
+21,MF,NGA,Christian Madu,Lobi Stars F.C.
+25,DF,NGA,Nnamdi Frank,Lobi Stars F.C.
+33,MF,NGA,Ifeanyi Assurance,Lobi Stars F.C.
+22,MF,NGA,Onah Peter,Lobi Stars F.C.
+27,DF,NGA,Monday Akile,Lobi Stars F.C.
+28,MF,NGA,Ahmadu Liman,Lobi Stars F.C.
+5,FW,NGA,Yem Reubem,Lobi Stars F.C.
+30,GK,NGA,Akor Itodo,Lobi Stars F.C.
+33,DF,NGA,Agbanyi Vershima,Lobi Stars F.C.
+34,CB,NGA,Arinze Ogbonna,Lobi Stars F.C.
+37,FW,NGA,Olorintoba Segun,Lobi Stars F.C.
+35,FW,NGA,Itim Paul,Lobi Stars F.C.
+1,GK,NGA,Yinka David,Nasawara United F.C.
+3,MF,NGA,Godwin Alex(captain),Nasawara United F.C.
+6,DF,NGA,Abdullahi Abubakar,Nasawara United F.C.
+9,FW,NGA,Ohanachom Chinedu,Nasawara United F.C.
+10,MF,NGA,Maigishiri Dauda,Nasawara United F.C.
+11,DF,NGA,Madaki Chris,Nasawara United F.C.
+12,GK,NGA,Danlami Umar,Nasawara United F.C.
+13,FW,NGA,Osanga King,Nasawara United F.C.
+14,MF,NGA,Yusuf Anas,Nasawara United F.C.
+15,DF,NGA,Ugochukwu Gabriel,Nasawara United F.C.
+16,DF,NGA,Manga Mohammed,Nasawara United F.C.
+17,MF,NGA,Joshua John,Nasawara United F.C.
+18,FW,NGA,Ogbole Emmanuel,Nasawara United F.C.
+20,FW,NGA,Offor Ikenna,Nasawara United F.C.
+25,GK,NGA,Isaac Jerry,Nasawara United F.C.
+27,DF,NGA,Denis Victor,Nasawara United F.C.
+30,FW,NGA,Obasi Dennis,Nasawara United F.C.
+34,GK,NGA,Godwin Ameh,Nasawara United F.C.
+1,GK,NGA,Ndem Innocent,Niger Tornadoes F.C.
+2,,NGA,James Martins Iko,Niger Tornadoes F.C.
+3,FW,NGA,Anthony Onyebuchi Onyeakazi,Niger Tornadoes F.C.
+4,,NGA,Moses Ugwu,Niger Tornadoes F.C.
+5,DF,NGA,Sunday Akinmoladun,Niger Tornadoes F.C.
+6,DF,NGA,Sarki Ismaila,Niger Tornadoes F.C.
+7,MF,NGA,Tanko Awwal,Niger Tornadoes F.C.
+8,MF,NGA,Adetola Ayo,Niger Tornadoes F.C.
+9,FW,NGA,Ejiofor Izuchukwu,Niger Tornadoes F.C.
+11,,GHA,Eric Frimpong,Niger Tornadoes F.C.
+13,,NGA,Peter Abashiya,Niger Tornadoes F.C.
+14,MF,NGA,Obinna Jacob,Niger Tornadoes F.C.
+17,DF,NGA,Ibrahim Babawo Abubakar,Niger Tornadoes F.C.
+20,FW,NGA,Mustapha Jibrin,Niger Tornadoes F.C.
+21,AMF,NGA,Miazina Nwimueyii,Niger Tornadoes F.C.
+22,FW,NGA,Osondu Jonathan,Niger Tornadoes F.C.
+23,FW,NGA,Analaba Uchechukwu,Niger Tornadoes F.C.
+27,,NGA,Atsen Emmanuel,Niger Tornadoes F.C.
+28,DF,NGA,Anyamele Chukwuemeka,Niger Tornadoes F.C.
+30,GK,NGA,Mustapha Salihu Aliko,Niger Tornadoes F.C.
+32,,NGA,Mohammed Aliyu,Niger Tornadoes F.C.
+33,FW,NGA,Chigbo Chinenye Christian,Niger Tornadoes F.C.
+34,MF,NGA,Alani Azeez,Niger Tornadoes F.C.
+35,MF,NGA,Iliasu Sulaimon,Niger Tornadoes F.C.
+36,FW,NGA,Amamgbo Ekenedelichukwu,Niger Tornadoes F.C.
+38,,NGA,Bashar Usman,Niger Tornadoes F.C.
+1,MF,NGA,Charles Henlong,Plateau United F.C.
+3,DF,NGA,Daniel Itodo(captain),Plateau United F.C.
+4,MF,NGA,Muhammad Zulkifilu,Plateau United F.C.
+5,DF,NGA,Nwaeze Christopher,Plateau United F.C.
+7,FW,NGA,Reuben Bala,Plateau United F.C.
+8,FW,NGA,Sunday Anthony,Plateau United F.C.
+12,GK,NGA,Chinedu Anozie,Plateau United F.C.
+13,MF,NGA,Eneji Moses Peter,Plateau United F.C.
+14,MF,NGA,Udeh Tochukwu,Plateau United F.C.
+15,DF,NGA,Abdullahi Mustafa,Plateau United F.C.
+16,MF,NGA,Nenrot Silas,Plateau United F.C.
+18,FW,NGA,Izuchukwu Chimezie,Plateau United F.C.
+19,MF,NGA,Haggai Katoh,Plateau United F.C.
+20,FW,NGA,Mustapha Ibrahim,Plateau United F.C.
+21,GK,NGA,Ayeleso Suraj,Plateau United F.C.
+24,DF,NGA,Austin Opara,Plateau United F.C.
+25,FW,NGA,Josiah Emmanuel,Plateau United F.C.
+34,DF,NGA,Ifeanyi Onyebuchi,Plateau United F.C.
+1,GK,NGA,Vincent Edafe,Remo Stars F.C.
+2,DF,NGA,Boniface Nwaeze,Remo Stars F.C.
+3,DF,NGA,Edozie Ewelike,Remo Stars F.C.
+4,RB,NGA,Habib Yakub,Remo Stars F.C.
+5,FW,TOG,Franck Mawuena,Remo Stars F.C.
+6,DF,NGA,Monsuru Bashiru,Remo Stars F.C.
+7,FW,NGA,Mathias Ogwuche,Remo Stars F.C.
+8,MF,NGA,Dayo Ojo,Remo Stars F.C.
+10,MF,NGA,Adedayo Olamilekan,Remo Stars F.C.
+11,DF,NGA,Sodiq Ismail,Remo Stars F.C.
+12,DF,NGA,Abiodun Awoyemi,Remo Stars F.C.
+13,DF,NGA,Isah Ali,Remo Stars F.C.
+14,FW,NGA,Olamilekan Adams,Remo Stars F.C.
+15,FW,NGA,Junior Lokosa,Remo Stars F.C.
+16,MF,NGA,MHadi Haruna,Remo Stars F.C.
+17,MF,NGA,Samuel Anakwe,Remo Stars F.C.
+18,MF,NGA,Akanni Qudus,Remo Stars F.C.
+19,MF,NGA,Seth Mayi,Remo Stars F.C.
+20,DF,NGA,Oluwasegun Olalere,Remo Stars F.C.
+21,FW,NGA,Godwin Odibo,Remo Stars F.C.
+22,DF,NGA,Seun Ogunribide,Remo Stars F.C.
+24,FW,GHA,Dela  Akorli,Remo Stars F.C.
+25,DF,NGA,Nduka Junior(captain),Remo Stars F.C.
+27,MF,NGA,Adekunle Oyedele,Remo Stars F.C.
+28,MF,NGA,Adebayo Abayomi,Remo Stars F.C.
+29,DF,NGA,Gbenga Opamoye,Remo Stars F.C.
+30,GK,NGA,Tambe Charles,Remo Stars F.C.
+32,DF,NGA,Ifeanyi Anaemena,Remo Stars F.C.
+33,FW,NGA,Aniekeme Okon,Remo Stars F.C.
+35,GK,NGA,Kayode Bankole(vice-captain),Remo Stars F.C.
+38,DF,NGA,Ahmed Akinyele,Remo Stars F.C.
+39,FW,NGA,Akeem Taiwo,Remo Stars F.C.
+40,GK,NGA,Olisa Emmanuel,Remo Stars F.C.
+1,GK,NGA,Abiodun Akande,Rivers United F.C.
+2,DF,NGA,Muyiwa Fehintola,Rivers United F.C.
+3,DF,GHA,Emmanuel Ampiah,Rivers United F.C.
+4,DF,NGA,John Uche Akubueze,Rivers United F.C.
+5,DF,NGA,Ebedebiri Endurance,Rivers United F.C.
+6,DF,NGA,Enyinnaya Godswill,Rivers United F.C.
+7,FW,NGA,Suleiman Abba,Rivers United F.C.
+8,MF,NGA,Ukeme Williams,Rivers United F.C.
+9,FW,LBR,Mark Gibson,Rivers United F.C.
+10,FW,NGA,Alex Oyowah,Rivers United F.C.
+11,MF,NGA,Shedrack Asiegbu,Rivers United F.C.
+12,FW,LBR,Albert Korvah,Rivers United F.C.
+13,MF,NGA,Adeleke Adekunle,Rivers United F.C.
+16,GK,NGA,Victor Soshima,Rivers United F.C.
+17,MF,GHA,Farouk Mohammed,Rivers United F.C.
+18,MF,NGA,Chiamaka Madu,Rivers United F.C.
+19,DF,NGA,Paul Odeh,Rivers United F.C.
+20,MF,NGA,Joseph Onoja,Rivers United F.C.
+21,GK,GHA,Mutawakilu Seidu,Rivers United F.C.
+23,MF,GHA,Paul Acquah,Rivers United F.C.
+25,MF,NGA,Augustine Okejepha,Rivers United F.C.
+26,FW,CIV,Bernard Yao Kouassi,Rivers United F.C.
+27,FW,GHA,Samuel Antwi,Rivers United F.C.
+28,FW,NGA,Nwangwa Nyima(Captain),Rivers United F.C.
+29,FW,NGA,Ossy Martins,Rivers United F.C.
+30,FW,NGA,Chibuzor Ezeh,Rivers United F.C.
+31,DF,NGA,Azeez Godswill,Rivers United F.C.
+32,FW,NGA,Andy Okpe,Rivers United F.C.
+33,DF,NGA,Temple Emekayi,Rivers United F.C.
+34,GK,NGA,Osagie Onisodumeya,Rivers United F.C.
+1,GK,NGA,Ariyo David,Sunshine Stars F.C.
+4,DF,NGA,Yakub Habib,Sunshine Stars F.C.
+5,MF,NGA,Oguagu Emmanuel,Sunshine Stars F.C.
+6,DF,NGA,Olulayo Seun(captain),Sunshine Stars F.C.
+7,FW,NGA,Emmanuel lucky Gyan,Sunshine Stars F.C.
+8,MF,NGA,Awosanmi Promise,Sunshine Stars F.C.
+10,DF,NGA,Sunday Abe,Sunshine Stars F.C.
+11,MF,NGA,Temitope Vincent,Sunshine Stars F.C.
+12,MF,NGA,Adeyemi Kehinde,Sunshine Stars F.C.
+14,MF,NGA,Azubuike Okechukwu,Sunshine Stars F.C.
+15,DF,NGA,Bashir Abdul,Sunshine Stars F.C.
+16,DF,NGA,Uzoehi Ejike,Sunshine Stars F.C.
+17,FW,NGA,Akhabue Joshua,Sunshine Stars F.C.
+18,FW,NGA,Chuwedu Stephen,Sunshine Stars F.C.
+19,MF,NGA,Emeka Isaac,Sunshine Stars F.C.
+20,MF,NGA,Olasupo Samson,Sunshine Stars F.C.
+21,GK,NGA,Lawal Mustapha,Sunshine Stars F.C.
+23,MF,NGA,Okonkwo Joseph,Sunshine Stars F.C.
+24,MF,NGA,Chukwudi John,Sunshine Stars F.C.
+25,FW,NGA,Cletus Emotan,Sunshine Stars F.C.
+26,MF,NGA,Olulasi Michael,Sunshine Stars F.C.
+27,DF,NGA,Lawal Muritala,Sunshine Stars F.C.
+28,MF,NGA,Iwuoha Dennis,Sunshine Stars F.C.
+30,MF,NGA,Mafeng Pam,Sunshine Stars F.C.
+31,DF,NGA,Ekerette Udom,Sunshine Stars F.C.
+32,DF,UGA,Moses Okoth,Sunshine Stars F.C.
+34,DF,NGA,Jimoh Jide,Sunshine Stars F.C.
+35,FW,NGA,Onovo David,Sunshine Stars F.C.
+36,FW,NGA,Ogbuagu Amos,Sunshine Stars F.C.
